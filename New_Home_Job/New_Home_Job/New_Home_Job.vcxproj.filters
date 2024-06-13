@@ -18,5 +18,8 @@
     <ClCompile Include="ソート書いてみよう①.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="多次元配列書いてみよう①.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
