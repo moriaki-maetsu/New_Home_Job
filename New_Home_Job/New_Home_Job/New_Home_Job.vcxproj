@@ -127,8 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FileName.cpp" />
     <ClCompile Include="ソート書いてみよう①.cpp" />
     <ClCompile Include="基礎問題.cpp" />
+    <ClCompile Include="基礎問題②.cpp" />
     <ClCompile Include="多次元配列書いてみよう①.cpp" />
     <ClCompile Include="復習問題1.cpp" />
     <ClCompile Include="復習問題2.cpp" />

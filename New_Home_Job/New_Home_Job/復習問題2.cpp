@@ -1,8 +1,38 @@
 #include<stdio.h>
 int main(void)
 {
-	int cost = 100;
-	int num;
-	
-	
+	int day;
+	int zone;
+	int ans = 1;
+
+	printf("—j“ú‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢B\n");
+	printf("0“ú—j“úA1Œ—jA2‰Î—jA3…—jA4–Ø—jA5‹à—jA6“y—j\n");
+	scanf_s("%d", &day);
+	printf("ŠÔ‘Ñ‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢B\n");
+	printf("0Œß‘OA1ŒßŒãA2–éŠÔ\n");
+	scanf_s("%d", &zone);
+
+	if (day == 0)
+	{
+		ans = 0;
+	}
+	if (day == 6 && zone == 1)
+	{
+		ans = 0;
+	}
+	if (day == 3 && zone == 2)
+	{
+		ans = 0;
+	}
+
+	if (ans == 1)
+	{
+		printf("f—Ã‚µ‚Ä‚¢‚Ü‚·B\n");
+	}
+	else
+	{
+		printf("‹xf‚µ‚Ä‚¢‚Ü‚·B\n");
+	}
+
+	return 0;
 }
