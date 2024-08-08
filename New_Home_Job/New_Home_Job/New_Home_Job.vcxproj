@@ -130,6 +130,7 @@
     <ClCompile Include="FileName.cpp" />
     <ClCompile Include="ソート書いてみよう①.cpp" />
     <ClCompile Include="ビット演算①cpp.cpp" />
+    <ClCompile Include="ビット演算（論理積）.cpp" />
     <ClCompile Include="基礎問題.cpp" />
     <ClCompile Include="基礎問題②.cpp" />
     <ClCompile Include="基礎問題③.cpp" />
