@@ -141,6 +141,12 @@
     <ClCompile Include="復習問題3.cpp" />
     <ClCompile Include="文字列配列書いてみよう①.cpp" />
     <ClCompile Include="文字操作関数.cpp" />
+    <ClCompile Include="関数（一つの引数）.cpp" />
+    <ClCompile Include="関数（引数なし）.cpp" />
+    <ClCompile Include="関数（戻り値）.cpp" />
+    <ClCompile Include="関数（戻り値）練習問題1.cpp" />
+    <ClCompile Include="関数（戻り値）練習問題2cpp.cpp" />
+    <ClCompile Include="関数（複数の引数）.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

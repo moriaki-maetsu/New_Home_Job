@@ -1,8 +1,8 @@
-#include<stdio.h>
-
-#define D_KIND_APPLE_ID (0)
-#define D_KIND_BANANA_ID (1)
-#define D_KIND_PEACH_ID (3)
+//#include<stdio.h>
+//
+//#define D_KIND_APPLE_ID (0)
+//#define D_KIND_BANANA_ID (1)
+//#define D_KIND_PEACH_ID (3)
 
 //int main(void)
 //{
@@ -33,17 +33,17 @@
 ///*cNum = 50;*/
 //
 //printf("%d\n", cNum);
-#define STD_ATTCK (100)
-#define STD_FIRE_ELEMENT (64)
-
-int main(void)
-{
-	int Level;
-	printf("武器レベルを入力してください。\n");
-	scanf_s("%d", &Level);
-
-	printf("攻撃力：%d\n", STD_ATTCK * Level);
-	printf("火属性値：%d\n", STD_FIRE_ELEMENT * Level);
-
-	return 0;
-}
+//#define STD_ATTCK (100)
+//#define STD_FIRE_ELEMENT (64)
+//
+//int main(void)
+//{
+//	int Level;
+//	printf("武器レベルを入力してください。\n");
+//	scanf_s("%d", &Level);
+//
+//	printf("攻撃力：%d\n", STD_ATTCK * Level);
+//	printf("火属性値：%d\n", STD_FIRE_ELEMENT * Level);
+//
+//	return 0;
+//}
