@@ -2,30 +2,22 @@
 //
 //int tasizan(int num1, int num2)
 //{
-//	int answer1;
-//	answer1 = num1 + num2;
-//	return answer1;
+//	return num1 + num2;
 //}
 //
 //int hikizan(int num1, int num2)
 //{
-//	int answer1;
-//	answer1 = num1 - num2;
-//	return answer1;
+//	return num1 - num2;
 //}
 //
 //int kakezan(int num1, int num2)
 //{
-//	int answer1;
-//	answer1 = num1 * num2;
-//	return answer1;
+//	return num1 * num2;
 //}
 //
 //int warizan(int num1, int num2)
 //{
-//	int answer1;
-//	answer1 = num1 / num2;
-//	return answer1;
+//	return num1 / num2;
 //}
 //
 //int main(void)

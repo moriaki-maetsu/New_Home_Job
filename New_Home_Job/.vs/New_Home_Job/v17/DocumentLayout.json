@@ -3,17 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2461.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2461.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2462.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2462.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u57FA\u790E\u554F\u984C\u2462.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u57FA\u790E\u554F\u984C\u2462.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -28,35 +59,12 @@
       "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5B9A\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u5B9A\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u57FA\u790E\u554F\u984C\u2462.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u57FA\u790E\u554F\u984C\u2462.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u30D3\u30C3\u30C8\u6F14\u7B97\uFF08\u8AD6\u7406\u7A4D\uFF09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u30D3\u30C3\u30C8\u6F14\u7B97\uFF08\u8AD6\u7406\u7A4D\uFF09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u591A\u6B21\u5143\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u591A\u6B21\u5143\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-=======
->>>>>>> Stashed changes
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5FA9\u7FD2\u554F\u984C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -67,24 +75,12 @@
       "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u57FA\u790E\u554F\u984C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u57FA\u790E\u554F\u984C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5FA9\u7FD2\u554F\u984C2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u5FA9\u7FD2\u554F\u984C2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-=======
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u30BD\u30FC\u30C8\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u30BD\u30FC\u30C8\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u591A\u6B21\u5143\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u591A\u6B21\u5143\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
->>>>>>> Stashed changes
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,124 +98,110 @@
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 0,
-              "Title": "\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-26T01:37:00.891Z",
-=======
               "DocumentIndex": 3,
-              "Title": "\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-17T01:57:19.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-17T01:57:14.331Z",
->>>>>>> Stashed changes
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C1.cpp",
               "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C1.cpp",
               "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C1.cpp",
               "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C1.cpp",
               "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAADAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-26T00:58:55.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "DocumentIndex": 0,
+              "Title": "\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C4.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C4.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C4.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C4.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-26T00:30:57.671Z",
+              "WhenOpened": "2024-08-27T00:30:55.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 3,
-              "Title": "\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "DocumentIndex": 1,
+              "Title": "\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C3.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C3.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C3.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C3.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-22T01:08:47.408Z",
+              "WhenOpened": "2024-08-26T10:48:02.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C2.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C2.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C2.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C2.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528.\u7DF4\u7FD2\u554F\u984C2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T10:44:08.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "\u95A2\u6570\uFF08\u5F15\u6570\u306A\u3057\uFF09.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u5F15\u6570\u306A\u3057\uFF09.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u5F15\u6570\u306A\u3057\uFF09.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u5F15\u6570\u306A\u3057\uFF09.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u5F15\u6570\u306A\u3057\uFF09.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Title": "\u95A2\u6570\u306E\u5229\u7528\u2461.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2461.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2461.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2461.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2461.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-22T01:06:00.674Z",
+              "WhenOpened": "2024-08-26T09:32:05.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Title": "\u95A2\u6570\u306E\u5229\u7528\u2460.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2460.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2460.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2460.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2460.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-21T02:04:45.683Z",
+              "WhenOpened": "2024-08-26T08:54:16.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "\u5B9A\u6570.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5B9A\u6570.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u5B9A\u6570.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5B9A\u6570.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u5B9A\u6570.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAowCkAAAAfAAAA",
+              "Title": "\u95A2\u6570\u306E\u5229\u7528\u2462.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2462.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2462.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2462.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\u306E\u5229\u7528\u2462.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-19T00:39:58.833Z",
+              "WhenOpened": "2024-08-26T09:58:38.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "\u5FA9\u7FD2\u554F\u984C3.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T09:03:42.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "\u57FA\u790E\u554F\u984C\u2462.cpp",
               "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u57FA\u790E\u554F\u984C\u2462.cpp",
               "RelativeDocumentMoniker": "New_Home_Job\\\u57FA\u790E\u554F\u984C\u2462.cpp",
@@ -231,7 +213,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09\u7DF4\u7FD2\u554F\u984C2cpp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T01:37:00.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u623B\u308A\u5024\uFF09.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T00:30:57.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u8907\u6570\u306E\u5F15\u6570\uFF09.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T02:04:45.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\u95A2\u6570\uFF08\u5F15\u6570\u306A\u3057\uFF09.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u5F15\u6570\u306A\u3057\uFF09.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u5F15\u6570\u306A\u3057\uFF09.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u5F15\u6570\u306A\u3057\uFF09.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u5F15\u6570\u306A\u3057\uFF09.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-22T01:06:00.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u95A2\u6570\uFF08\u4E00\u3064\u306E\u5F15\u6570\uFF09.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-22T01:08:47.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "\u30D3\u30C3\u30C8\u6F14\u7B97\uFF08\u8AD6\u7406\u7A4D\uFF09.cpp",
               "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u30D3\u30C3\u30C8\u6F14\u7B97\uFF08\u8AD6\u7406\u7A4D\uFF09.cpp",
               "RelativeDocumentMoniker": "New_Home_Job\\\u30D3\u30C3\u30C8\u6F14\u7B97\uFF08\u8AD6\u7406\u7A4D\uFF09.cpp",
@@ -244,42 +286,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "\u57FA\u790E\u554F\u984C.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u57FA\u790E\u554F\u984C.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u57FA\u790E\u554F\u984C.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u57FA\u790E\u554F\u984C.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u57FA\u790E\u554F\u984C.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAwD8AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-24T00:24:04.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u6587\u5B57\u5217\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-17T01:57:19.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAHQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-17T01:57:14.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "\u591A\u6B21\u5143\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
               "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u591A\u6B21\u5143\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
               "RelativeDocumentMoniker": "New_Home_Job\\\u591A\u6B21\u5143\u914D\u5217\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
@@ -291,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "\u5FA9\u7FD2\u554F\u984C2.cpp",
               "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5FA9\u7FD2\u554F\u984C2.cpp",
               "RelativeDocumentMoniker": "New_Home_Job\\\u5FA9\u7FD2\u554F\u984C2.cpp",
@@ -303,19 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "\u5FA9\u7FD2\u554F\u984C3.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u5FA9\u7FD2\u554F\u984C3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-25T09:03:42.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "FileName.cpp",
               "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\FileName.cpp",
               "RelativeDocumentMoniker": "New_Home_Job\\FileName.cpp",
@@ -327,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "\u5FA9\u7FD2\u554F\u984C1.cpp",
               "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u5FA9\u7FD2\u554F\u984C1.cpp",
               "RelativeDocumentMoniker": "New_Home_Job\\\u5FA9\u7FD2\u554F\u984C1.cpp",
@@ -339,10 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-=======
-              "DocumentIndex": 1,
->>>>>>> Stashed changes
+              "DocumentIndex": 19,
               "Title": "\u30BD\u30FC\u30C8\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
               "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u30BD\u30FC\u30C8\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
               "RelativeDocumentMoniker": "New_Home_Job\\\u30BD\u30FC\u30C8\u66F8\u3044\u3066\u307F\u3088\u3046\u2460.cpp",
