@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="add.cpp" />
     <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="グローバル変数とローカル変数.cpp" />
     <ClCompile Include="ソート書いてみよう①.cpp" />
     <ClCompile Include="ビット演算演習問題.cpp" />
     <ClCompile Include="ビット演算（論理積）.cpp" />
@@ -147,12 +149,18 @@
     <ClCompile Include="関数の利用①.cpp" />
     <ClCompile Include="関数の利用②.cpp" />
     <ClCompile Include="関数の利用③.cpp" />
+    <ClCompile Include="関数プロトタイプ宣言.cpp" />
+    <ClCompile Include="関数プロトタイプ宣言（add）.cpp" />
+    <ClCompile Include="関数プロトタイプ宣言（main).cpp" />
     <ClCompile Include="関数（一つの引数）.cpp" />
     <ClCompile Include="関数（引数なし）.cpp" />
     <ClCompile Include="関数（戻り値）.cpp" />
     <ClCompile Include="関数（戻り値）練習問題1.cpp" />
     <ClCompile Include="関数（戻り値）練習問題2cpp.cpp" />
     <ClCompile Include="関数（複数の引数）.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="add.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
