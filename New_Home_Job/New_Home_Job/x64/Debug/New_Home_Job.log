@@ -1,3 +1,4 @@
-﻿  グローバル変数とローカル変数.cpp
-C:\Users\maetsu\Documents\GitHub\New_Home_Job\New_Home_Job\New_Home_Job\グローバル変数とローカル変数.cpp(38,14): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
-  New_Home_Job.vcxproj -> C:\Users\maetsu\Documents\GitHub\New_Home_Job\New_Home_Job\x64\Debug\New_Home_Job.exe
+﻿  ポインタ①.cpp
+  ポインタ②.cpp
+  コードを生成中...
+  New_Home_Job.vcxproj -> C:\Users\guruk\Documents\GitHub\New_Home_Job\New_Home_Job\x64\Debug\New_Home_Job.exe
