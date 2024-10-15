@@ -102,9 +102,6 @@
     <ClCompile Include="関数プロトタイプ宣言（add）.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="add.cpp">
-      <Filter>ソース ファイル</Filter>
-    </ClCompile>
     <ClCompile Include="グローバル変数とローカル変数.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
@@ -115,6 +112,15 @@
       <Filter>ソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="ポインタ③.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ポインタ④.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ポインタ.練習問題①.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ポインタ⑤.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>

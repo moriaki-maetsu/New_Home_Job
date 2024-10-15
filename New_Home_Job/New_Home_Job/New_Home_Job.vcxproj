@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="add.cpp" />
     <ClCompile Include="FileName.cpp" />
     <ClCompile Include="グローバル変数とローカル変数.cpp" />
     <ClCompile Include="ソート書いてみよう①.cpp" />
@@ -136,6 +135,9 @@
     <ClCompile Include="ポインタ①.cpp" />
     <ClCompile Include="ポインタ②.cpp" />
     <ClCompile Include="ポインタ③.cpp" />
+    <ClCompile Include="ポインタ④.cpp" />
+    <ClCompile Include="ポインタ.練習問題①.cpp" />
+    <ClCompile Include="ポインタ⑤.cpp" />
     <ClCompile Include="基礎問題.cpp" />
     <ClCompile Include="基礎問題②.cpp" />
     <ClCompile Include="基礎問題③.cpp" />
