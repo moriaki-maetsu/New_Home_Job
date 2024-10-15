@@ -138,6 +138,7 @@
     <ClCompile Include="ポインタ④.cpp" />
     <ClCompile Include="ポインタ.練習問題①.cpp" />
     <ClCompile Include="ポインタ⑤.cpp" />
+    <ClCompile Include="ポインタ⑥.cpp" />
     <ClCompile Include="基礎問題.cpp" />
     <ClCompile Include="基礎問題②.cpp" />
     <ClCompile Include="基礎問題③.cpp" />
