@@ -139,6 +139,9 @@
     <ClCompile Include="ポインタ.練習問題①.cpp" />
     <ClCompile Include="ポインタ⑤.cpp" />
     <ClCompile Include="ポインタ⑥.cpp" />
+    <ClCompile Include="ポインタ（Numel0n・配列）.cpp" />
+    <ClCompile Include="ポインタ（Numel0n）.cpp" />
+    <ClCompile Include="ポインタ（基礎）.cpp" />
     <ClCompile Include="基礎問題.cpp" />
     <ClCompile Include="基礎問題②.cpp" />
     <ClCompile Include="基礎問題③.cpp" />
