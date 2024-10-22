@@ -150,6 +150,7 @@
     <ClCompile Include="復習問題1.cpp" />
     <ClCompile Include="復習問題2.cpp" />
     <ClCompile Include="復習問題3.cpp" />
+    <ClCompile Include="文字列操作関数.cpp" />
     <ClCompile Include="文字列配列書いてみよう①.cpp" />
     <ClCompile Include="文字操作関数.cpp" />
     <ClCompile Include="関数の利用.練習問題2.cpp" />
