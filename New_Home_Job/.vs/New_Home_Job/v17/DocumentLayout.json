@@ -3,22 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u5217\u64CD\u4F5C\u95A2\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u6587\u5B57\u5217\u64CD\u4F5C\u95A2\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u69CB\u9020\u4F53\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA47CAE-C934-4929-98C7-46AF688FE659}|New_Home_Job\\New_Home_Job.vcxproj|solutionrelative:New_Home_Job\\\u69CB\u9020\u4F53\u2460.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u6587\u5B57\u64CD\u4F5C\u95A2\u6570.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-22T04:46:51.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\u6587\u5B57\u5217\u64CD\u4F5C\u95A2\u6570.cpp",
-              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u5217\u64CD\u4F5C\u95A2\u6570.cpp",
-              "RelativeDocumentMoniker": "New_Home_Job\\\u6587\u5B57\u5217\u64CD\u4F5C\u95A2\u6570.cpp",
-              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u6587\u5B57\u5217\u64CD\u4F5C\u95A2\u6570.cpp",
-              "RelativeToolTip": "New_Home_Job\\\u6587\u5B57\u5217\u64CD\u4F5C\u95A2\u6570.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAeAAAAAAAAAA==",
+              "Title": "\u69CB\u9020\u4F53\u2460.cpp",
+              "DocumentMoniker": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u69CB\u9020\u4F53\u2460.cpp",
+              "RelativeDocumentMoniker": "New_Home_Job\\\u69CB\u9020\u4F53\u2460.cpp",
+              "ToolTip": "C:\\Users\\maetsu\\Documents\\GitHub\\New_Home_Job\\New_Home_Job\\New_Home_Job\\\u69CB\u9020\u4F53\u2460.cpp",
+              "RelativeToolTip": "New_Home_Job\\\u69CB\u9020\u4F53\u2460.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-22T02:01:32.561Z",
+              "WhenOpened": "2024-10-28T01:22:11.864Z",
               "EditorCaption": ""
             }
           ]
