@@ -1,0 +1,4 @@
+﻿  構造体②.cpp
+C:\Users\guruk\Documents\GitHub\New_Home_Job\New_Home_Job\Project1\構造体②.cpp(33,23): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\guruk\Documents\GitHub\New_Home_Job\New_Home_Job\Project1\構造体②.cpp(50,17): warning C4215: 非標準の拡張機能が使用されています: long float です。
+  Project1.vcxproj -> C:\Users\guruk\Documents\GitHub\New_Home_Job\New_Home_Job\x64\Debug\Project1.exe

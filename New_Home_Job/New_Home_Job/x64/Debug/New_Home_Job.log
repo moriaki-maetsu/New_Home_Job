@@ -1,3 +1,2 @@
 ﻿  構造体①.cpp
-C:\Users\maetsu\Documents\GitHub\New_Home_Job\New_Home_Job\New_Home_Job\構造体①.cpp(30,23): warning C4305: '=': 'double' から 'float' へ切り詰めます。
-  New_Home_Job.vcxproj -> C:\Users\maetsu\Documents\GitHub\New_Home_Job\New_Home_Job\x64\Debug\New_Home_Job.exe
+  New_Home_Job.vcxproj -> C:\Users\guruk\Documents\GitHub\New_Home_Job\New_Home_Job\x64\Debug\New_Home_Job.exe
