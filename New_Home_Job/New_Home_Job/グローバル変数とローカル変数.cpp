@@ -6,7 +6,7 @@
 //void func(void)
 //{
 //	int c = 2;
-//	int a = 0;
+//
 //	a++;
 //	printf("func関数では変数aと変数cが使えます。\n");
 //	printf("変数aの値は%dです。\n", a);
@@ -17,6 +17,7 @@
 //int main(void)
 //{
 //	int b = 1;
+//
 //	a++;
 //
 //	printf("main関数では変数aと変数bが使えます。\n");
@@ -27,6 +28,7 @@
 //	func();
 //
 //	int e = 0;
+//
 //	for (int i = 0; i < 5; i++)
 //	{
 //		e++;
@@ -42,7 +44,10 @@
 //	{
 //		break;
 //	}
+//
 //	
+//
+//		
 //
 //	return 0;
 //}

@@ -1,4 +1,3 @@
-﻿  構造体②.cpp
-C:\Users\guruk\Documents\GitHub\New_Home_Job\New_Home_Job\Project1\構造体②.cpp(33,23): warning C4305: '=': 'double' から 'float' へ切り詰めます。
-C:\Users\guruk\Documents\GitHub\New_Home_Job\New_Home_Job\Project1\構造体②.cpp(50,17): warning C4215: 非標準の拡張機能が使用されています: long float です。
-  Project1.vcxproj -> C:\Users\guruk\Documents\GitHub\New_Home_Job\New_Home_Job\x64\Debug\Project1.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中間ディレクトリ (x64\Debug\) に別のプロジェクト (Project1.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  構造体②.cpp
+  Project1.vcxproj -> C:\Users\maetsu\Documents\GitHub\New_Home_Job\New_Home_Job\x64\Debug\構造体.exe
