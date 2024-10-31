@@ -30,5 +30,19 @@
     <ClCompile Include="構造体.練習問題2.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="構造体.配列..関数.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="構造体.配列.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="共用体.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="構造体.リスト.cpp">
+      <Filter>ソース ファイル</Filter>
+    </None>
   </ItemGroup>
 </Project>

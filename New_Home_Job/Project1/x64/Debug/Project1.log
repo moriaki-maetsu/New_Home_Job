@@ -1,3 +1,13 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中間ディレクトリ (x64\Debug\) に別のプロジェクト (Project1.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  共用体.cpp
+  構造体.練習問題2.cpp
+  構造体.配列.cpp
+  構造体①.cpp
   構造体②.cpp
-  Project1.vcxproj -> C:\Users\maetsu\Documents\GitHub\New_Home_Job\New_Home_Job\x64\Debug\構造体.exe
+  構造体③.cpp
+  構造体.練習問題1.cpp
+  構造体.配列..関数.cpp
+  C/C++ のコード分析を実行しています...
+  コードを生成中...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 未解決の外部シンボル main が関数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) で参照されました
+C:\Users\guruk\Documents\GitHub\New_Home_Job\New_Home_Job\x64\Debug\構造体.exe : fatal error LNK1120: 1 件の未解決の外部参照
